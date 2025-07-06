@@ -8,7 +8,7 @@ This is my personal portfolio site — built with just **HTML5 + CSS3**, designe
 
 ## 🌟 Live Demo
 
-👉 [View Live Portfolio](https://revatiraut998.github.io/revati-portfolio-lite)
+👉 [View Live Portfolio](https://revatiraut998.github.io/revati-portfolio/)
 
 ---
 
